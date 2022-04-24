@@ -1,7 +1,7 @@
 &nbsp;
 
 <p align="center">
-  <img width="50%" src="https://raw.githubusercontent.com/Kristrunu/m6-native/main/m6-native/assets/weather-app-screenshot.png" alt="App Screenshot" />
+  <img width="50%" src="./assets/weather-app-screenshot.png" alt="App Screenshot" />
 </p>
 
 &nbsp;
