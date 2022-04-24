@@ -52,7 +52,7 @@ or
 yarn start
 ```
 
-#### You need to add .env file and contact me to get the API key to put in that file.
+## You need to add .env file and contact me to get the API key to put in that file.
 
 #### Open localhost:19002 in your browser
 
