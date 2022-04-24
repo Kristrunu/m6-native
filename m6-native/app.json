@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "weather Now",
+    "slug": "m6-native",
+    "description": "Simple weather app that shows you the current weather at your location",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/weather-icon.png",
+    "splash": {
+      "image": "./assets/weather-icon-splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
